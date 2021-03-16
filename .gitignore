@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pycharm
+.idea/
+node_modules
+
+# Custom
+plugins/
+backup_210315_2007
+.vscode/
+docs/
